@@ -1,0 +1,74 @@
+/* Your styles should be mobile-first and responsive */
+
+/** 
+  * If you are unclear on how to utilize a mobile-first, responsive technique to write your CSS, here is an example: 
+  *
+  * https://github.com/andreacardybailey/responsive_example/blob/master/styles/responsive-base.css 
+  *
+*/
+
+.h2 {
+  background-color: rgba(128, 128, 128, 0.486);
+  display: flex;
+  justify-content: center;
+  font-weight: normal;
+  font-size: 30px;
+  margin: 50px 50px 50px 50px;
+  border-radius: 10px;
+}
+p {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 5px 20px 15px 20px;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+  font-weight: normal;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+  font-weight: normal;
+  font-size: 20px;
+  margin: 0 20px 0 20px;
+  text-align: center;
+}
+
+h5 {
+  display: flex;
+  justify-content: center;
+  font-weight: normal;
+  font-size: 20px;
+  margin: 0 20px 40px 20px;
+  text-align: center;
+}
+
+button {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.radio-buttons {
+  font-size: 18px;
+}
+
+li {
+  width: 80%;
+  margin: auto;
+  list-style-type: none;
+  margin-bottom: 5px;
+}
+
+.welcome {
+  margin-bottom: 40px;
+}
