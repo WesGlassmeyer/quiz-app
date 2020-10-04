@@ -1,3 +1,7 @@
+h1 {
+display: none;
+}
+
 .h2 {
   background-color: rgba(128, 128, 128, 0.486);
   display: flex;
